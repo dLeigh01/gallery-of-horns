@@ -23,9 +23,9 @@ Did some collaboration with Stanley Widler and Raul Zarate, recieved help from J
 
 Number and name of feature: **#1 - Display Images**
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 45 min
 
-Start time:
+Start time: 2:40
 
 Finish time:
 
