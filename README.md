@@ -35,11 +35,11 @@ Number and name of feature: **#2 - Allow Users to Vote for Their Favorite Beast*
 
 Estimate of time needed to complete: 45 min
 
-Start time: 2:54
+Start time: 3:12
 
-Finish time:
+Finish time: 3:21
 
-Actual time needed to complete:
+Actual time needed to complete: 9 min
 
 Number and name of feature: **#3 - Bootstrap**
 
