@@ -1,0 +1,10 @@
+article {
+  border: 5px solid cadetblue;
+  padding: 1vw;
+  margin: 1vw;
+  width: 20%;
+}
+
+article img {
+  width: 100%;
+}
