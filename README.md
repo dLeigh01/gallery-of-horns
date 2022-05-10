@@ -43,7 +43,7 @@ Actual time needed to complete: 9 min
 
 Number and name of feature: **#3 - Bootstrap**
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 10 min
 
 Start time:
 
