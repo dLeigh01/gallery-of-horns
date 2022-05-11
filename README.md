@@ -18,6 +18,7 @@ Did some collaboration with Stanley Widler and Raul Zarate, recieved help from J
 ### Resources 02
 
 [class demo](https://github.com/codefellows/seattle-code-301d85/tree/main/class-02/in-class-demo/people-of-301d85)
+[booststrap cards info](https://react-bootstrap.github.io/components/cards/)
 
 ### Time Estimates
 
