@@ -18,11 +18,19 @@ class HornedBeast extends React.Component {
 
   render() {
     return(
-      <Card border='info' style={{ width: '18rem'}} className='cards' onClick={() => this.props.displayModal(this.props.title, this.props.imageUrl, this.props.description)}>
+      <Card
+        border='info'
+        onClick={() => this.props.displayModal(this.props.title, this.props.imageUrl, this.props.description)}
+      >
         <Card.Body>
           <Card.Title>{this.props.title}</Card.Title>
-          <Card.Subtitle className='likes'>❤️{this.state.likes}</Card.Subtitle>
-          <Card.Img src={this.props.imageUrl} alt={this.props.description} title={this.props.title} onClick={this.likePhoto} className='card-image'/>
+          <Card.Subtitle>❤️{this.state.likes}</Card.Subtitle>
+          <Card.Img
+            src={this.props.imageUrl}
+            alt={this.props.description}
+            title={this.props.title}
+            onClick={this.likePhoto}
+          />
           <Card.Text>{this.props.description}</Card.Text>
         </Card.Body>
       </Card>

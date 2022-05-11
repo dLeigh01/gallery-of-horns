@@ -1,14 +1,15 @@
-.cards {
+.card {
   border: 1px solid gray;
   padding: 1vw;
   margin: 1vw;
+  width: 18rem;
 }
 
-.likes {
+.card-subtitle {
   text-align: right;
   margin-top: -1.5vw;
 }
 
-.card-image {
+.card-img {
   margin-top: .5vw;
 }
