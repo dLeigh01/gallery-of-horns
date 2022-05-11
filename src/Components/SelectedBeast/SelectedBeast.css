@@ -1,0 +1,13 @@
+.modal-content {
+  background-color: aliceblue;
+  padding: 1vw;
+}
+
+.modal-title {
+  text-align: center;
+  margin-bottom: 1vw;
+}
+
+.modal-content img {
+  border: 3px solid;
+}
