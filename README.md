@@ -20,7 +20,7 @@ Did some collaboration with Stanley Widler and Raul Zarate, recieved help from J
 [class demo](https://github.com/codefellows/seattle-code-301d85/tree/main/class-02/in-class-demo/people-of-301d85)
 [booststrap cards info](https://react-bootstrap.github.io/components/cards/)
 
-### Time Estimates
+### Time Estimates 02
 
 Number and name of feature: **#1 - Display Images**
 
@@ -51,3 +51,21 @@ Start time: 4:32
 Finish time: 5:00
 
 Actual time needed to complete: 30 min
+
+## Lab 03
+
+## Resources 03
+
+[class demo](https://github.com/codefellows/seattle-code-301d85/tree/main/class-03/in-class-demo/people-of-301d85)
+
+### Time Estimates 03
+
+Number and name of feature: **#1 - Display a Modal**
+
+Estimate of time needed to complete:
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete:
