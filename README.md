@@ -57,15 +57,16 @@ Actual time needed to complete: 30 min
 ## Resources 03
 
 [class demo](https://github.com/codefellows/seattle-code-301d85/tree/main/class-03/in-class-demo/people-of-301d85)
+[bootstrap modal guide](https://react-bootstrap.github.io/components/modal/)
 
 ### Time Estimates 03
 
 Number and name of feature: **#1 - Display a Modal**
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 30 min
 
-Start time:
+Start time: 2:02
 
-Finish time:
+Finish time: 3:18
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hour 16 minutes
