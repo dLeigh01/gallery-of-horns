@@ -56,6 +56,8 @@ Actual time needed to complete: 30 min
 
 ## Resources 03
 
+[class demo](https://github.com/codefellows/seattle-code-301d85/tree/main/class-03/in-class-demo/people-of-301d85)
+
 ### Time Estimates 03
 
 Number and name of feature: **#1 - Display a Modal**
