@@ -12,6 +12,7 @@ class Main extends React.Component {
         title={beast.title}
         description={beast.description}
         imageUrl={beast.image_url}
+        key={idx}
       />)
     });
 

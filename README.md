@@ -43,10 +43,10 @@ Actual time needed to complete: 9 min
 
 Number and name of feature: **#3 - Bootstrap**
 
-Estimate of time needed to complete: 10 min
+Estimate of time needed to complete: 20 min
 
-Start time:
+Start time: 4:32
 
-Finish time:
+Finish time: 5:00
 
-Actual time needed to complete:
+Actual time needed to complete: 30 min
