@@ -1,5 +1,6 @@
 import React from 'react';
 import Form from 'react-bootstrap/Form';
+import './Filter.css';
 
 class Filter extends React.Component {
   render() {

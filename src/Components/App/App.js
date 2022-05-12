@@ -48,7 +48,7 @@ class App extends React.Component {
       let filteredList = data.filter(li => li.horns === 3);
       this.setState({list: filteredList});
     } else if (selected === 'other') {
-      let filteredList = data.filter(li => li.horns > 3);
+      let filteredList = data.filter(li => li.horns > 3 || li.horns < 1);
       this.setState({list: filteredList});
     } else {
       this.setState({list: data});
