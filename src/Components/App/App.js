@@ -14,6 +14,7 @@ class App extends React.Component {
       modalName: '',
       modalImg: '',
       modalDescription: '',
+      list: data,
     }
   }
 
@@ -32,12 +33,34 @@ class App extends React.Component {
     });
   }
 
+  handleSelect = (event) => {
+    let selected = event.target.value;
+    console.log(selected);
+    console.log(this.state.list);
+
+    if (selected === '1') {
+      let filteredList = data.filter(li => li.horns === 1);
+      this.setState({list: filteredList});
+    } else if (selected === '2') {
+      let filteredList = data.filter(li => li.horns === 2);
+      this.setState({list: filteredList});
+    } else if (selected === '3') {
+      let filteredList = data.filter(li => li.horns === 3);
+      this.setState({list: filteredList});
+    } else if (selected === 'other') {
+      let filteredList = data.filter(li => li.horns > 3 || li.horns < 1);
+      this.setState({list: filteredList});
+    } else {
+      this.setState({list: data});
+    }
+  }
+
   render() {
     return (
       <>
-        <Header/>
+        <Header handleSelect={this.handleSelect}/>
         <Main
-          data={data}
+          data={this.state.list}
           displayModal={this.displayModal}
         />
         <Footer/>

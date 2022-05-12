@@ -1,0 +1,9 @@
+.form-label {
+  color: aliceblue;
+  float: left;
+}
+
+.form-select {
+  width: 5.7rem;
+  margin-left: 13rem;
+}

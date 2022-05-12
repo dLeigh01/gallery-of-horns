@@ -70,3 +70,22 @@ Start time: 2:02
 Finish time: 3:18
 
 Actual time needed to complete: 1 hour 16 minutes
+
+## Lab 04
+
+## Resources 04
+
+[class demo](https://github.com/codefellows/seattle-code-301d85/tree/main/class-04/in-class-demo/forms-in-react)
+[bootstrap form guide](https://react-bootstrap.github.io/forms/overview/)
+
+## Time Estimates 04
+
+Number and name of feature: **#1 - Filter by Number of Horns**
+
+Estimate of time needed to complete: 45 min
+
+Start time: 2:16
+
+Finish time: 3:00
+
+Actual time needed to complete: 44 min
