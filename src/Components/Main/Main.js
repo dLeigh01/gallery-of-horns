@@ -4,12 +4,12 @@ import './Main.css';
 
 class Main extends React.Component {
   render() {
-    let beasts = this.props.data.map((beast, idx) =>
+    let beasts = this.props.data.map((beast) =>
       <HornedBeast
         title={beast.title}
         description={beast.description}
         imageUrl={beast.image_url}
-        key={idx}
+        key={beast._id}
         displayModal={this.props.displayModal}
       />
     );
